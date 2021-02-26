@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there :wave:
+
+```javascript
+const atea = {
+  pronouns: "she" | "her",
+  whoami: [I\'m Ateanna],
+  code: [R, HTML, CSS, Ruby, Python, Latex],
+  tools: [Omeka, GitHub, NVivo, Oxygen XML Editor, Scalar],
+  professionalinterests: ["metadata", "data analysis", "data management", "digital humanities"],
+  currentlylearning: [re-learning SQL]
+}
+```
 
 <!--
 **aouriri/aouriri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
