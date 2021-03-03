@@ -11,8 +11,9 @@ const atea = {
 }
 ```
 
+<p align="center">
 <img src="https://cdn.dribbble.com/users/1261045/screenshots/11402331/media/1968757c491841f0bafb6322b01c24f0.gif" alt="gif of the phrase 'hello and welcome' hand-lettered" title="Welcome Email with Hand Lettering Animated GIF by Claudia Orengo" width="500" />
-
+</p>
 
 <!--
 **aouriri/aouriri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
