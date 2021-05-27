@@ -9,7 +9,6 @@ const atea = {
   code: [R, HTML, CSS, Ruby, Python, Latex],
   tools: [Omeka, GitHub, NVivo, Oxygen XML Editor, Scalar],
   professionalinterests: ["metadata", "data analysis", "data management", "digital humanities"],
-  currentlylearning: [re-learning SQL]
 }
 ```
 
